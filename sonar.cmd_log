@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/daesb/TempUltrasonicotimer/sonar.xst" -ofn "C:/Users/daesb/TempUltrasonicotimer/sonar.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc MimasV2.ucf -p xc6slx9-csg324-3 sonar.ngc sonar.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc MimasV2.ucf -p xc6slx9-csg324-3 sonar.ngc sonar.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc MimasV2.ucf -p xc6slx9-csg324-3 sonar.ngc sonar.ngd  
